@@ -15,7 +15,7 @@ The LinkedIn Profile Scraper does the following:
 ## Setup
 
 1. Clone this repository to your local machine.
-2. Install the required dependencies (list them if there are any specific requirements).
+2. Install the required dependencies using the environment.yml.
 3. Create a `config.yaml` file in the root directory with your ScrapeTables.com API key:
 
    ```yaml
