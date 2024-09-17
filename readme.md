@@ -1,6 +1,6 @@
 # LinkedIn Profile Scraper
 
-This project utilizes the ScrapeTables.com API to extract information from LinkedIn profiles using their URLs. It's designed to process a large number of LinkedIn profile URLs efficiently and safely.
+This project utilizes the [Scrapetable API](https://www.scrapetable.com/) to extract information from LinkedIn profiles using their URLs. It's designed to process a large number of LinkedIn profile URLs efficiently and safely.
 
 ## Project Overview
 
